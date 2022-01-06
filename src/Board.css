@@ -1,0 +1,13 @@
+.Board {
+    margin: 0 auto;
+    border: 2px solid salmon;
+    cursor: pointer;
+  }
+
+.Board-title {
+    text-align: center;
+    display: inline-block;
+    justify-content: center;
+    color: salmon;
+    background-color: lightyellow;
+}
